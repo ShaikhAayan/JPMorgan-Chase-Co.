@@ -37,3 +37,4 @@ public class RewardValueTests {
         assertEquals(expectedCash, rewardValue.getCashValue(), 0.001); // Delta allows for slight precision difference
     }
 }
+
